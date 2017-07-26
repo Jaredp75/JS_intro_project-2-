@@ -1,5 +1,5 @@
 // Answer the following questions in this file using comments without running the code
-//Jared Patterson - July 25, 2017
+//Jared Patterson
 
 // 1.
 // What does `givenName` equal right now?
@@ -160,7 +160,7 @@ if(""){
 } else {
 	console.log("False!");
 }
-// A:
+// A: false
 
 
 // 23.
@@ -172,7 +172,7 @@ if(x2){
 } else {
 	console.log("False!");
 }
-// A: undefined
+// A: false
 
 
 // 24.
@@ -217,7 +217,7 @@ if({name: "Yehuda Katz"}){
 } else {
 	console.log("False!");
 }
-// A:
+// A: true
 
 
 // 29.
@@ -226,7 +226,7 @@ if(new Date()){
 } else {
 	console.log("False!");
 }
-// A:
+// A: true
 
 
 // 30.
